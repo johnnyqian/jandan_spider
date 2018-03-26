@@ -1,5 +1,7 @@
 # Use Python27 and Selenium to crawl images from Web
 
+Original from https://geekspider.org/geek/288.html
+
 ```
 brew install phantomjs
 
