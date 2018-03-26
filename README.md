@@ -1,4 +1,4 @@
-# Use Python27 and Selenium to crawl images from Web
+# Use Python27 and [Selenium](https://github.com/SeleniumHQ/selenium) to crawl images from Web
 
 Original from https://geekspider.org/geek/288.html
 
